@@ -1,0 +1,16 @@
+#ignore
+
+#all log files
+*.log
+
+#all dev files
+*.dev
+
+#all object files
+*.o 
+
+#all temp files
+*.temp 
+
+#all layout files
+*.layout 
