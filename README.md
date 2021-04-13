@@ -1,0 +1,1 @@
+This is a simple command line snake game built using an old library that provides an API to create TUI ( Textual User Interface). It's so basic all you have to do is move around in all four directions of a 2D plane. Focusing on its target food, which I Presume you already are familiar to. Just run the curs_snk.py file and enjoy.
